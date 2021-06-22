@@ -15,7 +15,7 @@ $headers[] = "accept-language: en-US,en;q=0.9";
 $headers[] = "cache-control: max-age=0";
 //content-length: 73
 $headers[] = "content-type: application/x-www-form-urlencoded";
-$headers[] = "cookie: datr=XBTRYMiGWvEWo4CC7o_JWiyT; sb=XBTRYBGcbjYST8CeNmqGjBOl; m_pixel_ratio=1; fr=1xQkPdz5idpKPUb94.AWV--pq_OLfCDs6EXVM0pSNolZU.Bg0RRc.QW.AAA.0.0.Bg0RRr.AWXUm848m4g; c_user=100007272702248; xs=50:CRNSivCoQHgOEw:2:1624314987:-1:11120; x-referer=eyJyIjoiLyIsImgiOiIvIiwicyI6Im0ifQ==; wd=837x970";
+$headers[] = "cookie: "; //cookie
 $headers[] = "origin: https://m.facebook.com";
 $headers[] = "referer: https://m.facebook.com/corsairID/photos/a.407703772756385/1666770866849663/?type=3&refid=52&__tn__=EH-R";
 $headers[] = 'sec-ch-ua: "Opera";v="77","Chromium";v="91", ";Not A Brand";v="99"';
